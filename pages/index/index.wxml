@@ -1,0 +1,3 @@
+<!--index.wxml-->
+<lists obj="{{subjects}}"></lists>
+

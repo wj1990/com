@@ -1,0 +1,5 @@
+<view class="stars-wrap">
+  <image src="./img/starActive.png" class="item-start" wx:for="{{activeArr}}" wx:key="index"></image>
+  <image src="./img/star.png" class="item-start" wx:for="{{normalArr}}" wx:key="index"></image>
+  <text class="info-score">{{score}}</text>
+</view>

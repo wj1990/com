@@ -1,0 +1,35 @@
+.search-box{
+  position: relative;
+  background: #f2f2f2;
+}
+.search-box input{
+  font-size: 28rpx;
+  color: #000;
+  height: 80rpx;
+  line-height: 80rpx;
+  padding: 0 87rpx;
+  display: block;
+  background: none;
+}
+.search-ico{
+  position: absolute;
+  width:26rpx;
+  height: 26rpx;
+  left: 20rpx;
+  top: 27rpx;
+}
+.search-clear{
+  position: absolute;
+  width:30rpx;
+  height: 30rpx;
+  right: 24rpx;
+  top: 24rpx;
+}
+.serch-none{
+  text-align: center;
+  font-size: 30rpx;
+}
+.serch-none image{
+  width: 375rpx;
+  height: 375rpx;
+}
