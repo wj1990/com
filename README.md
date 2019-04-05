@@ -16,8 +16,8 @@
  
 项目介绍：
 ---
-  1.首页和搜索页都有列表 于是组件化》》组件---/components/lists
-  2.评分组件 高度出现 》》》组件----/components/stars
+  1.首页和搜索页都有列表 于是组件化》》组件---/components/lists  
+  2.评分组件 高度出现 》》》组件----/components/stars  
    
     
    
