@@ -1,9 +1,0 @@
-<view class="list">
-  <view class="item" wx:for="{{listArr}}" wx:key="{{index}}" bindtap="itemClick" data-id="{{item.id}}">
-      <image src="{{item.images.large}}" class="item-img"></image>
-      <text class="item-name">{{item.title}}</text>
-      <view class="item-info">
-        <stars obj="{{item.rating}}"></stars>
-      </view>
-  </view>
-</view>
